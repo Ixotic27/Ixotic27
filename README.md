@@ -94,7 +94,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ixotic27/Ixotic27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ixotic27/Ixotic27/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
