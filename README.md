@@ -19,7 +19,12 @@ I'm currently sharpening my skills in **Java, Python, C, C++**, and core web tec
 My current goal: Mastering algorithms and building impactful software.
 Ask me about **Algorithms, Data Structures, and basic Web Development**.
 How to reach me: ishant.off@gmail.com
-Connect on LinkedIn: [**Ixotic27**]
+<br/>
+Connect on LinkedIn: <p align="left">
+<a href="https://www.linkedin.com/in/ishant-singh-bisht-247a4b322/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Ishant%20Singh%20Bisht-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
 <br/>
 
