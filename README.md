@@ -48,25 +48,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ixotic27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ixotic27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&icon_color=38BDAE&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ixotic27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAE&text_color=FFFFFF" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ixotic27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ixotic27&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-# 🎧 Listening To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=kittinan&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Ixotic27&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE" />
 
 </div>
 
@@ -76,15 +64,14 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ixotic27/Ixotic27/output/github-contribution-grid-snake-dark.svg">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ixotic27/Ixotic27/output/github-contribution-grid-snake.svg">
-  
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ixotic27/Ixotic27/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Ixotic27/Ixotic27/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+<p align="center">
+<i>Tracking my coding journey 🚀</i>
+</p>
+```
 
 <p align="center">
 <i>Tracking my coding journey 🚀</i>
