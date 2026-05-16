@@ -17,15 +17,14 @@ I'm a passionate student and developer participating in major open-source progra
 - 🔭 Currently contributing to <b>open source</b> and building exciting projects.
 - 🌱 I’m focused on sharpening my skills in <b>Java, Python, C, and C++</b>, alongside core web technologies.
 - 💬 Ask me about <b>algorithms, data structures, and basic web development</b>.
-- 📫 Reach me at <a href="mailto:your.email@example.com"><b>your.email@example.com</b></a>
-- 🤝 Connect on LinkedIn: <a href="https://www.linkedin.com/in/your-profile"><b>linkedin.com/in/your-profile</b></a>
+- 📫 Reach me here on GitHub: <a href="https://github.com/Ixotic27"><b>@Ixotic27</b></a>
+- 🤝 Always open to new opportunities, collaborations, and developer conversations.
 
 ---
 
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Ixotic27"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
