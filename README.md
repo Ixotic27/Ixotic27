@@ -18,7 +18,7 @@ Currently contributing to **Open Source** and building exciting projects.
 I'm currently sharpening my skills in **Java, Python, C, C++**, and core web technologies.
 My current goal: Mastering algorithms and building impactful software.
 Ask me about **Algorithms, Data Structures, and basic Web Development**.
-How to reach me: aliviahossainofficial@gmail.com
+How to reach me: ishant.off@gmail.com
 Connect on LinkedIn: [**Ixotic27**]
 
 <br/>
