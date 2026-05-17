@@ -77,8 +77,3 @@
 <i>Tracking my coding journey 🚀</i>
 </p>
 ```
-
-<p align="center">
-<i>Tracking my coding journey 🚀</i>
-</p>
-```
